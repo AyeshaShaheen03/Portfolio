@@ -11,4 +11,4 @@ const sync    = require('./build/browsersync');
   task( gulp );
 });
 
-gulp.task('build', ['sass', 'scripts', 'images', 'fonts', 'jekyll-build']);
+gulp.task('build', gulp.series('sass', 'scripts', 'images', 'fonts'));
