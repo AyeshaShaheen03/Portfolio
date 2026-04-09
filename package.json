@@ -1,13 +1,10 @@
 {
-  
   "scripts": {
-  "build": "gulp build"
- 
-},
-
+    "build": "gulp build"
+  },
   "engines": {
-  "node": "20.x"
-},
+    "node": "20.x"
+  },
   "name": "v2",
   "author": "Ayesha Shaheen",
   "version": "0.0.0",
