@@ -1,0 +1,40 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html>
+<head>
+  {% include head.html %}
+</head>
+<body>
+<nav class="navbar navbar-custom navbar-fixed-top">
+  <div class="container">
+
+    <!-- TOGGLE BUTTON (3 lines) -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+        ☰
+      </button>
+    </div>
+
+
+    <div class=" navbar-collapse navbar-main-collapse">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a class="page-scroll" href="#about-section">About</a></li>
+        <li><a class="page-scroll" href="#services-section">Services</a></li>
+        <li><a class="page-scroll" href="#skills-section">Skills</a></li>
+        <li><a class="page-scroll" href="#experience-section">Experience</a></li>
+        <li><a class="page-scroll" href="#portfolio-section">Projects</a></li>
+        <li><a class="page-scroll" href="#contact-section">Contact</a></li>
+      </ul>
+    </div>
+
+  </div>
+</nav>
+
+
+  {{ content }}
+  {% include scripts.html %}
+</body>
+</html>
