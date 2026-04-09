@@ -14,9 +14,10 @@
     "gulp-clean-css": "3.0.3",
     "gulp-eslint": "3.0.1",
     "gulp-imagemin": "3.1.1",
-    "gulp-sass": "3.1.0",
+    "gulp-sass": "^5.1.0",
     "gulp-uglify": "2.0.0",
-    "pump": "^1.0.2"
+    "pump": "^1.0.2",
+    "sass": "^1.32.0"
   },
   "repository": {
     "type": "git",
@@ -30,5 +31,6 @@
     "gulp",
     "sass",
     "browsersync"
-  ]
+  ],
+  "dependencies": {}
 }
