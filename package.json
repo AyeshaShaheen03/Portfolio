@@ -1,11 +1,15 @@
 {
+  
   "scripts": {
-    "build": "gulp build",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "build": "gulp build"
+ 
+},
+"overrides": {
+  "gulp-imagemin": "^7.1.0"
+},
   "engines": {
-    "node": "14.x"
-  },
+  "node": "20.x"
+},
   "name": "v2",
   "author": "Ayesha Shaheen",
   "version": "0.0.0",
