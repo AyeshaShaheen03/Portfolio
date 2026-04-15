@@ -1,9 +1,9 @@
-- position: Northeastern University
-  company: NU College of Computer &amp; Information Science
-  url: http://www.ccis.northeastern.edu/program/information-science-bs/
-  description: Candidate for Bachelor of Science in Information Science with a concentration in Human Computer Interaction (HCI) and a minor in Interaction Design. <strong>Graduating in May 2018.</strong>
-  sprite: university
-  date: 2013 - Present
+- position: Junior AI Developer (Intern)
+  company: Essenceware Technologies (Pvt. Ltd)
+  url: https://www.essencewaretech.com/
+  description: I am working here on practical AI projects, focusing on implementing machine learning models for real world use cases. Gaining hands-on experience with APIs and testing tools such as Postman.
+  # sprite: university
+  date: Jan 2026 - Present
 
 - position: HCI Research Assistant
   company: NU College of Computer &amp; Information Science
