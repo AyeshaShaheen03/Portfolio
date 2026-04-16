@@ -1,7 +1,49 @@
-- position: Junior AI Developer (Intern)
+- position: Junior AI Developer Intern
   company: Essenceware Technologies (Pvt. Ltd)
   url: https://www.essencewaretech.com/
   description: I am working here on practical AI projects, focusing on implementing machine learning models for real world use cases. Gaining hands-on experience with APIs and testing tools such as Postman.
   sprite: software house
   date: Jan 2026 - Present
 
+- position: Freelance UI/UX Designer
+  company: SkillSorted 
+  url: https://skillsorted.com/home
+  description: Delivered custom UI/UX solutions for both web and mobile applications across various industries. Created detailed wireframes, user flows, and high-fidelity prototypes to guide development teams.
+  sprite: designing
+  date:   2021 - oct 2025
+
+- position: UI/UX Designer
+  company: IFRAP (Integrated Flood Resilience and Adaptation Project)
+  url: https://puan.pk/about/
+  description: Selected for a national internship under PUAN, sponsored by the U.S. Mission to Pakistan. Created detailed design documentation and screen flows for multiple app roles.
+  sprite: technology
+  date: Jun 2025 - Aug 2025
+
+
+- position: Software Engineer
+  company: SkillSorted
+  url: https://skillsorted.com/home
+  description: Developed mobile applications using React Native and Expo CLI. Collaborated with teams to build and deploy scalable, efficient software.
+  sprite: development
+  date: Dec 2024 - May 2025
+
+- position: Remote Web Development Intern
+  company: Extranonce Limited
+  url: https://extranonce.ltd/
+  description: Worked with TypeScript and modern web technologies Adapted to UK web development methodologies and enhanced problem-solving skills.
+  sprite: technology
+  date: Aug 2024 - Nov 2024
+
+- position: Frontend Web Developer
+  company: Ilm-o-Irfan Technologies
+  url: https://ilmoirfan.com/
+  description: Completed an internship specializing in web development with Next.js and TypeScript. Implemented responsive components and improved performance.
+  sprite: technology
+  date: Jan 2024 - May 2024
+
+- position: WordPress & Web Development Intern
+  company: Cybex IT-Solutions
+  # url: https://extranonce.ltd/
+  description: Conducted on-site WordPress and MySQL database classes for junior developers. Collaborated on client projects to gain practical experience.
+  sprite: technology
+  date: Jul 2023 - Sept 2023
