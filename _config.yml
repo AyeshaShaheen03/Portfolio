@@ -2,8 +2,6 @@
 name: Ayesha Shaheen
 title: Ayesha Shaheen| Software Engineer
 description: Software engineer experienced in creating real-world applications and delivering seamless user experiences through thoughtful design and efficient code.
-# url: http://brittanychiang.com/
-# baseurl: "/v2"
 url: "https://ayeshashaheen.vercel.app"
 baseurl: ""
 email: ayeshashaheen542@gmail.com
@@ -15,8 +13,6 @@ social:
     url: mailto:ayeshashaheen542@gmail.com
   - title: instagram
     url: https://instagram.com/sooyaaa744
-  # - title: codepen
-  #   url: http://codepen.io/bchiang7
   - title: github
     url: https://github.com/AyeshaShaheen03
   - title: linkedin

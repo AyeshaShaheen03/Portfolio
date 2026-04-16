@@ -9,20 +9,5 @@
     - thing: MySQL
     - thing: Bootstrap
 
-# - title: Weather Widget
-#   demo: http://quiet-dusk-89245.herokuapp.com/
-#   code: https://github.com/bchiang7/DemoWebApp
-#   description: A simple weather app I made at HubSpot's Fall 2016 Web App Workshop utilizing Node.js, Express, and Heroku. I used the OpenWeatherMap API to get weather and forecast data, and then used the current city's coordinates to create a map background that reflected the current city using the Google Maps API.
-#   img: weather
-#   used:
-#     - thing: OpenWeatherMap API
-#     - thing: Google Maps API
-#     - thing: JavaScript
-#     - thing: jQuery
-#     - thing: CSS
-#     - thing: Node.js
-#     - thing: Express
-#     - thing: Heroku
-
 
 
