@@ -2,8 +2,10 @@
 name: Ayesha Shaheen
 title: Ayesha Shaheen| Software Engineer
 description: Design-minded, detail oriented software engineer passionate about combining beautiful code with beautiful design.
-url: http://brittanychiang.com/
-baseurl: "/v2"
+# url: http://brittanychiang.com/
+# baseurl: "/v2"
+url: "https://ayeshashaheen.vercel.app"
+baseurl: ""
 email: brittany.chiang@gmail.com
 cover: http://brittanychiang.com/v2/img/og.jpg
 logo: http://brittanychiang.com/v2/img/logo-black.png

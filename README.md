@@ -6,7 +6,13 @@ gulp build, npm run build
 gulp serve   (main command)
 then it will run on (localhost:3000)
 After changes:
-Everytime you change something in any file, then add it to git
+If you change anything in any file, then push files from git bash, vercel will not update the changes, because i am using _site folder for vercel, vercel is just reading the -site folder, index.html file where all files data is saved, so after changes in any file, go to vs code termonal run command: 
+jekyll build
+this command will rebuild the _site folder, then run command:
+gulp serve
+this will run project on localhost, chec if it ispdated version or not.
+Then commit and push files on git hub, then vercel will update after read the data of _site folder.
+Everytime you change something in any file, after updating _site folder, then add it to git using folder git bash:
 go to project in PC, open git bash, give command:
 git init  (only first time when you push project on githb repo)
 git add .
