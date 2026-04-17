@@ -2,18 +2,19 @@
   services:
     - heading: Web Development
       sprite: webdev
-      text: Using HTML, CSS, and JavaScript with pre-processors and build tools such as Sass and Grunt, I have a passion for developing pixel-perfect websites and apps while maintaining a semantic, modular, and DRY code base.
+      text: I have always been curious about how websites actually work behind the scenes. That curiosity turned into building my own projects using Next.js, and TypeScript. I also work with PHP and MySQL to create projects that are responsive and easy to use. 
 
-    - heading: Responsive UI Design
-      sprite: ui
-      text: <strong><em>"A user interface is like a joke. If you have to explain it, it's not that good."</em></strong> I strive to develop and implement responsive and aesthetically pleasing interfaces for websites and apps that adapt to any type of device, platform, or browser.
+    - heading: Android Development
+      sprite: xd
+      text: Creating mobile apps using React Native and Expo. I have a passion for developing perfect apps while maintaining a semantic, modular, and DRY code base.
 
 - row: row2
   services:
-    - heading: Experience Design
-      sprite: xd
-      text: There have been far too many times where I've been trying to accomplish a simple task on a website, and ended up wanting to throw my computer out the window in frustration. Needless to say, user experience is an aspect of software I believe is vital to a successful product.
+    - heading: Artificial Intelligence
+      sprite: wit
+      text: Exploring how models work and experimenting with simple implementations, using data to build and test basic prediction systems.
 
-    # - heading: Diversity in Tech
-    #   sprite: wit
-    #   text: Beyond coding, I am a strong advocate for diversity in the tech industry, especially for women. I currently serve as President for Northeastern's women in tech club, <a href="http://nuwit.ccs.neu.edu/" target="_blank">NUWIT</a>, and was a 2016 <a href="http://ghc.anitaborg.org/" target="_blank">Grace Hopper Conference</a> Scholar.
+    - heading: UI/UX Design
+      sprite: ui
+      text: There have been many times when I opened an app or website and felt lost. That experience showed me how important good design is. I design interfaces using wireframes and prototypes that are easy to use, so users can get things done without confusion.
+      

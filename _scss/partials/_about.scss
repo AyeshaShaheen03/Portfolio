@@ -39,7 +39,9 @@
       }
       @include MQ(MM) {
         float: none;
-        margin: 10px 0 40px 0;
+        display:block;
+        margin:10px auto 40px;
+        // margin: 10px 0 40px 0;
         width: 300px;
       }
       @include MQ(S400) {
