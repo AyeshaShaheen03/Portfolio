@@ -1,8 +1,21 @@
 <section id="footer-section" class="section">
   <div class="section-wrapper">
+    <div class="center">
+        <h1 class="section-heading">Get In Touch</h1>
+      </div>
+    <div class="heading-wrapper">
+    </div>
     <ul class="soc">
       {% for link in site.social %}
-      <li class="soc-item"><a href="{{link.url}}" target="_blank" class="icon {{link.title}}" title="{{link.title}}"><img src="img/icons/{{link.title}}.svg" alt="{{link.title}}"></a></li>
+      <li class="soc-item">
+        <a
+          href="{{link.url}}"
+          target="_blank"
+          class="icon {{link.title}}"
+          title="{{link.title}}"
+          ><img src="img/icons/{{link.title}}.svg" alt="{{link.title}}"
+        /></a>
+      </li>
       {% endfor %}
     </ul>
     <div class="copyright-wrapper center">

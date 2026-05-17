@@ -12,7 +12,7 @@
   services:
     - heading: Artificial Intelligence
       sprite: wit
-      text: Exploring how models work and experimenting with simple implementations, using data to build and test basic prediction systems.
+      text: Building and training machine learning models, preprocessing data, evaluating model performance, and developing prediction systems for real-world AI applications.
 
     - heading: UI/UX Design
       sprite: ui

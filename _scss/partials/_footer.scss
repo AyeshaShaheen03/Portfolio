@@ -1,6 +1,6 @@
 #footer-section {
   background: linear-gradient(45deg, $blue 0%, $purple 100%);
-  height: 200px;
+  height: 300px;
   min-height: 100px;
   color: $white;
   @include MQ(SM) {
@@ -12,6 +12,34 @@
       padding: 30px 0;
     }
   }
+
+.heading-wrapper {
+  margin-bottom: 40px;
+
+  @include MQ(M) {
+    margin-bottom: 25px;
+  }
+
+  @include MQ(SM) {
+    margin-bottom: 15px;
+  }
+}
+
+.heading-inner {
+  font-size: 3em;
+  color: $white;
+  text-align: center;
+
+  @include MQ(M) {
+    font-size: 2.3em;
+  }
+
+  @include MQ(SM) {
+    font-size: 1.8em;
+  }
+}
+
+
   .soc {
     display: block;
     font-size: 0;

@@ -1,6 +1,6 @@
 development:
   - item: Next.js
-  - item: Typescript
+  - item: TypeScript
   - item: Python
   - item: React Native
   - item: PHP
@@ -18,15 +18,19 @@ tools:
   - item: Git + Github
   - item: Chrome DevTools
   - item: Postman
-  - item: Claude.ai
+  - item: Cursor
+  - item: Google Colab
+  - item: Claude AI
+  # - item: Google Antigravity
+  - item: Visual Studio Code
 
 knowledge:
-
+  
+  - item: Machine Learning & Deep Learning
+  - item: Neural Networks (CNNs, RNNs, LSTMs)
+  - item: Data Preprocessing
+  - item: REST API Integration
   - item: Responsive Design
   - item: UI/UX Principles
-  - item: REST API Integration
-  - item: Machine Learning
   - item: Jekyll
   - item: Test-Driven Development (TDD)
-
-  
