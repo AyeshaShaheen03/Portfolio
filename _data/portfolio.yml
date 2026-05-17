@@ -9,26 +9,26 @@
     - thing: MySQL
     - thing: Bootstrap
 
-- title: Learn-RNN-Recurrent-Neural-Network
-  demo: https://ayeshashaheen03.github.io/-Learn-RNN-Recurrent-Neural-Network-/
-  code: https://github.com/AyeshaShaheen03/-Learn-RNN-Recurrent-Neural-Network-.git
-  description: An interactive educational website for learning RNN, NLTK, and AI model concepts through visual and beginner-friendly explanations.
-  img: rnn
-  used:
-    - thing: JavaScript
-    - thing: HTML
-    - thing: CSS
+# - title: Learn-RNN-Recurrent-Neural-Network
+#   demo: https://ayeshashaheen03.github.io/-Learn-RNN-Recurrent-Neural-Network-/
+#   code: https://github.com/AyeshaShaheen03/-Learn-RNN-Recurrent-Neural-Network-.git
+#   description: An interactive educational website for learning RNN, NLTK, and AI model concepts through visual and beginner-friendly explanations.
+#   img: rnn
+#   used:
+#     - thing: JavaScript
+#     - thing: HTML
+#     - thing: CSS
 
-- title: Laibex 
-  # code: https://github.com/AyeshaShaheen03/Portfolio.git
-  demo: https://laibex.com/
-  description: Designed the complete UI for Laibex, a token exchange platform, handling everything from layout and typography to responsive design. Created a modern Figma design system with reusable components to ensure consistency across optimized user flows, and collaborated with developers for a seamless, pixel-perfect implementation.
-  img: laibex
-  used:
-    - thing: Figma
-    - thing: User Interface Design
-    - thing: User Interface Prototyping
-    - thing: User Experience Design
+# - title: Laibex 
+#   # code: https://github.com/AyeshaShaheen03/Portfolio.git
+#   demo: https://laibex.com/
+#   description: Designed the complete UI for Laibex, a token exchange platform, handling everything from layout and typography to responsive design. Created a modern Figma design system with reusable components to ensure consistency across optimized user flows, and collaborated with developers for a seamless, pixel-perfect implementation.
+#   img: laibex
+#   used:
+#     - thing: Figma
+#     - thing: User Interface Design
+#     - thing: User Interface Prototyping
+#     - thing: User Experience Design
    
 - title: SecureWatchPro  
   # code: https://github.com/AyeshaShaheen03/Portfolio.git
