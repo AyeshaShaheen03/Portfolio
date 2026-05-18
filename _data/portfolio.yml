@@ -30,7 +30,7 @@
 #     - thing: User Interface Prototyping
 #     - thing: User Experience Design
    
-- title: Coursesource
+- title: Securewatchpro
   code: https://github.com/AyeshaShaheen03/Portfolio.git
   demo: https://laibex.com/
 
@@ -42,6 +42,7 @@
     I am only showcasing a few selected admin dashboard screen designs here,
     as I cannot display all screens and detailed designs since the project
     has not been published yet.
+    # coursesource = securewatchpro
   img: coursesource
   used:
     - thing: Figma
