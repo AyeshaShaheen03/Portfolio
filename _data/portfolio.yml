@@ -10,15 +10,15 @@
     - thing: Bootstrap
 
 
-# - title: Learn-RNN-Recurrent-Neural-Network
-#   demo: https://ayeshashaheen03.github.io/-Learn-RNN-Recurrent-Neural-Network-/
-#   code: https://github.com/AyeshaShaheen03/-Learn-RNN-Recurrent-Neural-Network-.git
-#   description: An interactive educational website for learning RNN, NLTK, and AI model concepts through visual and beginner-friendly explanations.
-#   img: rnn
-#   used:
-#     - thing: JavaScript
-#     - thing: HTML
-#     - thing: CSS
+- title: Learn RNN (Recurrent Neural Network)
+  demo: https://ayeshashaheen03.github.io/-Learn-RNN-Recurrent-Neural-Network-/
+  code: https://github.com/AyeshaShaheen03/-Learn-RNN-Recurrent-Neural-Network-.git
+  description: An interactive educational website for learning RNN, NLTK, and AI model concepts through visual and beginner-friendly explanations.
+  img: recurrentneuralnetwork
+  used:
+    - thing: JavaScript
+    - thing: HTML
+    - thing: CSS
 
 - title: Laibex 
   # code: https://github.com/AyeshaShaheen03/Portfolio.git
