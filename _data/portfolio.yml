@@ -9,6 +9,18 @@
     - thing: MySQL
     - thing: Bootstrap
 
+- title: Secure
+  demo: https://computech.infinityfreeapp.com/
+  code: https://github.com/AyeshaShaheen03/Computech.git
+  description: The development and implementation of CompuTech, a dynamic digital platform conceived as the Final Year Project (FYP) during the Bachelor's in Software Engineering, leveraging Bootstrap for responsive design, JavaScript for enhanced interactivity, and PHP for backend functionality. CompuTech serves as a dynamic digital platform offering customized web development, consultancy services, and a robust Learning Management System (LMS).
+  img: secure
+  used:
+    - thing: PHP
+    - thing: JavaScript
+    - thing: MySQL
+    - thing: Bootstrap
+
+
 # - title: Learn-RNN-Recurrent-Neural-Network
 #   demo: https://ayeshashaheen03.github.io/-Learn-RNN-Recurrent-Neural-Network-/
 #   code: https://github.com/AyeshaShaheen03/-Learn-RNN-Recurrent-Neural-Network-.git
