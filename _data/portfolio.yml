@@ -19,18 +19,6 @@
     - thing: JavaScript
     - thing: HTML
     - thing: CSS
-
-- title: Laibex 
-  # code: https://github.com/AyeshaShaheen03/Portfolio.git
-  demo: https://laibex.com/
-  description: Designed the complete UI for Laibex, a token exchange platform, handling everything from layout and typography to responsive design. Created a modern Figma design system with reusable components to ensure consistency across optimized user flows, and collaborated with developers for a seamless, pixel-perfect implementation.
-  # laibexxx = laibex
-  img: laibexxx
-  used:
-    - thing: Figma
-    - thing: User Interface Design
-    - thing: User Interface Prototyping
-    - thing: User Experience Design
    
 - title: SecureWatchPro
   # code: https://github.com/AyeshaShaheen03/Portfolio.git
@@ -51,6 +39,18 @@
     - thing: User Interface Design
     - thing: User Interface Prototyping
 
+- title: Laibex 
+  # code: https://github.com/AyeshaShaheen03/Portfolio.git
+  demo: https://laibex.com/
+  description: Designed the complete UI for Laibex, a token exchange platform, handling everything from layout and typography to responsive design. Created a modern Figma design system with reusable components to ensure consistency across optimized user flows, and collaborated with developers for a seamless, pixel-perfect implementation.
+  # laibexxx = laibex
+  img: laibexxx
+  used:
+    - thing: Figma
+    - thing: User Interface Design
+    - thing: User Interface Prototyping
+    - thing: User Experience Design
+
 - title: Abubooking 
   code: https://github.com/AyeshaShaheen03/Abubooking-1.git
   demo: https://abubooking.com/
@@ -61,6 +61,18 @@
     - thing: JavaScript
     - thing: React Native
     - thing: CSS
+
+- title: Extranonce 
+  code: https://github.com/AyeshaShaheen03/Extranonce-Limited.git
+  demo: https://extranonce.ltd/
+  description: Redesigned and developed the official website for Extranonce Limited by creating modern UI/UX designs in Figma and implementing responsive frontend interfaces using TypeScript.
+  img: extranonce
+  used:
+    - thing: TypeScript
+    - thing: JavaScript
+    - thing: Figma
+    - thing: User Interface Design
+
 
 
 
