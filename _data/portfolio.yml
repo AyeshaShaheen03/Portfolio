@@ -30,11 +30,18 @@
 #     - thing: User Interface Prototyping
 #     - thing: User Experience Design
    
-- title: SecureWatchPro  
+- title: SecureWatchPro
   # code: https://github.com/AyeshaShaheen03/Portfolio.git
   # demo: https://laibex.com/
-  description: My primary contribution involved designing a mobile application using Figma. I have created a detailed UI/UX planning document and designed wireframes and screen flows for multiple app roles, including Guard, Client, LineManager, and Admin dashboard.
-   I am only showcasing a few selected admin dashboard screen designs here, as I cannot display all screens and detailed designs since the project has not been published yet.
+
+  description: 
+    My primary contribution involved designing a mobile application using Figma.
+    I created a detailed UI/UX planning document and designed wireframes and
+    screen flows for multiple app roles including Guard, Client, LineManager,
+    and Admin dashboard.
+    I am only showcasing a few selected admin dashboard screen designs here,
+    as I cannot display all screens and detailed designs since the project
+    has not been published yet.
   img: securewatchpro
   used:
     - thing: Figma
